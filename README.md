@@ -1,7 +1,7 @@
 # Capstone_Project1
 Loan_Default_Prediction
 
-Hi, Welcome to my repository.
+Hi, welcome to my repository.
 This github repository contains the code to the Data Science capstone project on Loan Default Prediction. 
 
 The Notebook is divided into 5 major segments.

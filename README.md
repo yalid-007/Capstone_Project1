@@ -1,4 +1,4 @@
-# Capstone_Project1
+# Capstone_Project2
 Loan_Default_Prediction
 
 Hi, welcome to my repository.
